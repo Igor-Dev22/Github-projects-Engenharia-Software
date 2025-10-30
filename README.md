@@ -1,5 +1,3 @@
-Perfeito. Abaixo está o **README.md em formato acadêmico**, **sem a seção 5 (Integração com GitHub Actions)** — mantendo a linguagem formal e estrutura organizada:
-
 ---
 
 # README — Exercício de Gestão Ágil com GitHub Projects
