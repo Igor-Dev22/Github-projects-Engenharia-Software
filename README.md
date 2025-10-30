@@ -1,44 +1,61 @@
-Exercício — Gestão Ágil com GitHub Projects
+Perfeito. Abaixo está o **README.md em formato acadêmico**, **sem a seção 5 (Integração com GitHub Actions)** — mantendo a linguagem formal e estrutura organizada:
 
-Repositório criado para testes e simulação de gestão de projetos de software utilizando GitHub Projects, Issues e Automations.
+---
 
-Objetivo
+# README — Exercício de Gestão Ágil com GitHub Projects
 
-Planejar e acompanhar o desenvolvimento de um Sistema de Login, aplicando práticas ágeis (Kanban) e automação de fluxo de trabalho no GitHub.
+## 1. Introdução
 
-Estrutura do Projeto
-Projeto: “Planejamento do Sistema de Login”
+O presente repositório foi desenvolvido com o objetivo de simular a gestão ágil de um projeto de software utilizando a ferramenta **GitHub Projects**. A atividade tem como finalidade demonstrar a aplicação prática de conceitos de planejamento, organização de tarefas, automação de fluxos e acompanhamento de progresso dentro de um ambiente de desenvolvimento colaborativo.
 
-Modelo: Kanban
+## 2. Objetivo
 
-Tarefas (Issues)
+Planejar e acompanhar o desenvolvimento de um **Sistema de Login**, aplicando princípios de metodologias ágeis (modelo Kanban) e utilizando os recursos de integração entre issues, automações e campos personalizados disponíveis no GitHub.
 
-Definir requisitos do sistema de login
+## 3. Estrutura do Projeto
 
-Implementar tela de login
+### 3.1 Projeto
 
-Criar API de autenticação
+* **Nome:** Planejamento do Sistema de Login
+* **Modelo:** Kanban
 
-Testar login e logout
+### 3.2 Tarefas (Issues)
 
-Documentar endpoints
+As seguintes tarefas foram definidas e convertidas em issues vinculadas ao repositório:
 
-Campos Personalizados
+1. Definir requisitos do sistema de login
+2. Implementar tela de login
+3. Criar API de autenticação
+4. Testar login e logout
+5. Documentar endpoints
 
-Prioridade: Alta / Média / Baixa
+### 3.3 Campos Personalizados
 
-Responsável
+Foram criados campos adicionais para facilitar o acompanhamento e a priorização das atividades:
 
-Sprint: Sprint 1 / Sprint 2
+* **Prioridade:** Alta / Média / Baixa
+* **Responsável**
+* **Sprint:** Sprint 1 / Sprint 2
 
-Automação
+### 3.4 Automação do Fluxo
 
-Ao abrir uma issue → mover para “To Do”
+As regras de automação foram configuradas conforme descrito abaixo:
 
-Ao adicionar responsável → mover para “In Progress”
+* Ao abrir uma issue → mover automaticamente para **To Do**
+* Ao atribuir um responsável → mover para **In Progress**
+* Ao fechar uma issue → mover para **Done**
 
-Ao fechar issue → mover para “Done”
+## 4. Acompanhamento e Visualização
 
-Acompanhamento
+A visualização principal do projeto foi configurada no formato **Table View**, permitindo a filtragem por sprint e o acompanhamento do progresso das tarefas.
+Exemplo de relatório: **3 de 5 tarefas concluídas** (Sprint 1).
 
-Visualização por Table View, filtrada por Sprint 1, permitindo snapshot do progresso (exemplo: 3 de 5 tarefas concluídas).
+## 5. Resultados Esperados
+
+Ao final da atividade, espera-se obter:
+
+* Estrutura organizada de tarefas no GitHub Projects;
+* Configuração funcional de automações e campos personalizados;
+* Relatórios de acompanhamento do progresso do projeto.
+
+---
